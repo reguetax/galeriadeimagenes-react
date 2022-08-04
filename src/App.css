@@ -1,3 +1,26 @@
+.contenido {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+header {
+  border-bottom: 2px solid #282c34;
+}
+.imgs {
+  margin: 15px;
+}
+.card-img{
+  margin: 10px;
+}
+
+footer {
+  border-top: solid 2px #282c34;
+  margin-top: 10px;
+  width: 500px;
+}
+
 .App {
   text-align: center;
 }
